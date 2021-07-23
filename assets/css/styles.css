@@ -1,0 +1,17 @@
+/* .col-md-6, .col-12{
+    padding-left: 10px;
+    padding-right: 10px;
+} */
+.container-fluid{
+    padding: 0 20px;
+}
+.button-x{
+    padding: 3px 9px;
+    font-size: 12px;
+}
+.form-group{
+    margin-bottom: 5px;
+}
+.column{
+    padding-right: 0;
+}
